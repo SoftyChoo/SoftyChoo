@@ -2,22 +2,44 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:09203f,100:537895&height=230&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SoftyChoo's%20GitHub%20Profile&fontAlign=75&descAlign=78)
 
-#### Hits<br>
+### Hits<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoftyChoo&count_bg=%23537895&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
+<br>
 
-#### MY SNS LIST<br>
-<a href="https://www.instagram.com/choo_chuu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
+### My SNS List<br>
+<a href="https://www.instagram.com/choo_chuu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
 <a href="https://softychoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=Devpost&logoColor=#0A0A0A"/></a>
+<a href="mailto:devsoftychoo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/devsoftychoo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<!--
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
--->
+<br>
+<br>
 
-#### :pencil2: Study log
+### 🛠️Platforms & Languages & Tools🛠️
+#### < Used as the main ><br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+
+#### < Used at least Once ><br>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-808080?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+
+<br>
+
+<br>
+<br>
+<br>
+
+### 🖋️Study log🖋️
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftyChoo&layout=compact)](https://github.com/SoftyChoo/github-readme-stats)
 
 [![SoftyChoo's github stats](https://github-readme-stats.vercel.app/api?username=SoftyChoo&show_icons=true)](https://github.com/SoftyChoo)
