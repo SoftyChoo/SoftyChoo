@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&Text = SoftyChoo)
+![header](https://capsule-render.vercel.app/api?type=Waving&Text=SoftyChoo)
 <!--
 **SoftyChoo/SoftyChoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
