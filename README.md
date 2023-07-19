@@ -8,7 +8,7 @@
 <br>
 <br>
 
-### 🦕 My SNS List 🦕<br>
+###  🦕 My SNS List 🦕<br>
 <a href="https://www.instagram.com/choo_chuu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
 <a href="https://softychoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=Devpost&logoColor=#0A0A0A"/></a>
 <a href="mailto:devsoftychoo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/devsoftychoo@gmail.com-02303A?style=flat-square&logo=Gmail&logoColor=white"/></a>
