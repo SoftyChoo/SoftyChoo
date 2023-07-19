@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=150&section=header&text=SoftyChoo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=200&section=header&text=SoftyChoo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=AndroidDeveloper&fontAlign=75&descAlign=75)
 <!--
 **SoftyChoo/SoftyChoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
