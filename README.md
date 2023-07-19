@@ -2,13 +2,13 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:09203f,100:537895&height=230&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SoftyChoo's%20GitHub%20Profile&fontAlign=75&descAlign=78)
 
-### Hits<br>
+### 🐈‍⬛ Hits 🐈‍⬛<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoftyChoo&count_bg=%23537895&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 <br>
 
-### My SNS List<br>
+###🦕 My SNS List 🦕<br>
 <a href="https://www.instagram.com/choo_chuu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
 <a href="https://softychoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=Devpost&logoColor=#0A0A0A"/></a>
 <a href="mailto:devsoftychoo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/devsoftychoo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### 🛠️Platforms & Languages & Tools🛠️
+### 🛠️ Platforms & Languages & Tools 🛠️
 #### < Used as the main ><br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### 🖋️Study log🖋️
+### 🖋️ Study log 🖋️
  
   <br/>
   
