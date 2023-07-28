@@ -45,8 +45,7 @@
   <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftyChoo&layout=compact)](https://github.com/SoftyChoo/github-readme-stats)
 
-
- [![SoftyChoo's github stats](https://github-readme-stats.vercel.app/api?username=SoftyChoo&show_icons=true)](https://github.com/SoftyChoo)
+<!-- [![SoftyChoo's github stats](https://github-readme-stats.vercel.app/api?username=SoftyChoo&show_icons=true)](https://github.com/SoftyChoo) -->
 
 
 </div>
