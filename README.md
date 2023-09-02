@@ -40,11 +40,15 @@
 <br>
 <br>
  
-### 🖋️ Study log 🖋️
+### 📈 GitHub Stats
+
+<a href="https://github.com/SoftyChoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftyChoo&hide=Objective-C,c%2B%2B,Cmake,makeFile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
  
-  <br/>
+<br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftyChoo&layout=compact)](https://github.com/SoftyChoo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftyChoo&layout=compact)](https://github.com/SoftyChoo/github-readme-stats) -->
 
 <!-- [![SoftyChoo's github stats](https://github-readme-stats.vercel.app/api?username=SoftyChoo&show_icons=true)](https://github.com/SoftyChoo) -->
 
