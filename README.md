@@ -8,7 +8,7 @@
 <br>
 <br>
 
-##  🦕 My SNS List 🦕<br>
+###  🦕 My SNS List 🦕<br>
 <a href="https://www.instagram.com/choo_chuu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFF5EE?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
 <a href="https://softychoo.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=Devpost&logoColor=#0A0A0A"/></a>
 <a href="mailto:devsoftychoo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/devsoftychoo@gmail.com-02303A?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## 🛠️ Platforms & Languages & Tools 🛠️
+### 🛠️ Platforms & Languages & Tools 🛠️
 #### < Used as the main ><br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -39,7 +39,7 @@
 <br>
 <br>
  
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <a href="https://github.com/SoftyChoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftyChoo&hide=Objective-C,c%2B%2B,Cmake,makeFile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
