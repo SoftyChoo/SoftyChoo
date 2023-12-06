@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Slack-FFFFFF?style=flat-square&logo=slack&logoColor=blue"/>
-
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=orange"/>
 
 
 
