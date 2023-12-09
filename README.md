@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:09203f,100:537895&height=230&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SoftyChoo's%20GitHub%20Profile&fontAlign=75&descAlign=78)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:09203f,100:537895&height=230&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SoftyChoo's%20GitHub&fontAlign=75&descAlign=78)
 
 ### 🐈‍⬛ Hits 🐈‍⬛<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoftyChoo&count_bg=%23537895&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
