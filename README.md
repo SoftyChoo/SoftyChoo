@@ -6,8 +6,6 @@
 
 ### Contact & Channel
 
-🪪 **자기소개서 :** [[ 자기소개서 바로가기 ]](https://www.notion.so/2c187026b9b24eee98c8ac6e9542d87a?pvs=21)
-
 📬 **Email** :  [devsoftychoo@gmail.com](mailto:devsoftychoo@gmail.com)
 
 📞 **Call :** 010-2817-9282
