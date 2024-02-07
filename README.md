@@ -6,11 +6,11 @@
 
 ### Contact & Channel
 
-📬 **Email** :  [devsoftychoo@gmail.com](mailto:devsoftychoo@gmail.com)
+📬 Email :  [devsoftychoo@gmail.com](mailto:devsoftychoo@gmail.com)
 
-📞 **Call :** 010-2817-9282
+📞 Call : 010-2817-9282
 
-📑 **Devlog :** https://softychoo.github.io/
+📑 Devlog : https://softychoo.github.io/
 
 <br/>
 
