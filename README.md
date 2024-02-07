@@ -2,6 +2,20 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:09203f,100:537895&height=230&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SoftyChoo's%20GitHub&fontAlign=75&descAlign=81&descAlignY=55)
 
+<br/>
+
+### Contact & Channel
+
+🪪 **자기소개서 :** [[ 자기소개서 바로가기 ]](https://www.notion.so/2c187026b9b24eee98c8ac6e9542d87a?pvs=21)
+
+📬 **Email** :  [devsoftychoo@gmail.com](mailto:devsoftychoo@gmail.com)
+
+📞 **Call :** 010-2817-9282
+
+📑 **Devlog :** https://softychoo.github.io/
+
+<br/>
+
 ### 🐈‍⬛ Hits 🐈‍⬛<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoftyChoo&count_bg=%23537895&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
