@@ -4,7 +4,7 @@
 
 <br/>
 
-### Contact & Channel
+### Informations
 
 📬 Email :  [devsoftychoo@gmail.com](mailto:devsoftychoo@gmail.com)
 
